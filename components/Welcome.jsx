@@ -20,6 +20,7 @@ const Welcome = () => {
                     src={welcomeImg}
                     width={700}
                     height={700}
+                    alt=''
                     className='bg-cover bg-center'
                 />
             </div>
